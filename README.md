@@ -1,4 +1,4 @@
-# PHP Bruteforce Search in Database With MYSQL
+# PHP Search in Database With MYSQL
 
 <h2> what is bruteforce? </h2>
 "A method of accomplishing something primarily by means of strength, without the use of great skill, mechanical aids or thought."<br>
