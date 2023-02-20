@@ -6,3 +6,5 @@ source : https://en.wiktionary.org/wiki/brute_force#:~:text=Noun,skill%2C%20mech
 
 Bruteforce really is straight foward and easy to do. ever heard of brute-force attack? basically the attacker submitting many of passwords that they can think or every combination of letters / numbers / symbols. it doesn't need any skills to master it. but the concept is a must to learn. If you can't really think of a solution just use bruteforce. What an absolute loser of me.<br>
 ![](https://media.giphy.com/media/VVGdG2HimJl6APwPiE/giphy.gif)
+
+<h1>To be continue
